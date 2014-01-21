@@ -1,0 +1,4 @@
+doc/
+.yardoc/
+build-yardoc
+options_house_api_ruby-*.gem
