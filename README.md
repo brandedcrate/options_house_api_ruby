@@ -6,7 +6,7 @@ OptionsHouse API client implements basic interface to OptionsHouse.com API throu
 ## Example
 
 ```ruby
-require 'options_house_api'
+require 'options_house_api_ruby'
 
 # Create a new API manager:
 options_house = OptionsHouse::Manager.new('<username>', '<password>')
